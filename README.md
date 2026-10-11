@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sadiqmalik86501/DSA_Playlist/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sadiqmalik86501/DSA_Playlist/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sadiqmalik86501/DSA_Playlist/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/sadiqmalik86501/DSA_Playlist/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sadiqmalik86501/DSA_Playlist/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sadiqmalik86501/DSA_Playlist/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/sadiqmalik86501/DSA_Playlist/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 <!---LeetCode Topics End-->
